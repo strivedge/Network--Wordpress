@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>twitter</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-517.000000, -5830.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(517.229493, 5656.500000)">
+                <g id="twitter" transform="translate(0.000000, 174.000000)">
+                    <path d="M81.319934,40.6602 C81.319934,63.1102 63.120034,81.3198 40.660034,81.3198 C18.210034,81.3198 0,63.1202 0,40.6602 C0,18.2102 18.200034,0 40.660034,0 C63.110034,0 81.319934,18.2002 81.319934,40.6602 Z" id="Path" fill="#383838" opacity="0"></path>
+                    <path d="M46.529634,36.9199 L62.979634,19.3301 L56.729634,19.3301 L43.819534,33.1401 L33.929534,19.3301 L16.849634,19.3301 L34.139634,43.48 L16.849634,61.98 L23.099634,61.98 L36.859634,47.27 L47.389634,61.98 L64.469634,61.98 L46.529634,36.9199 Z M25.659634,23.8599 L31.619634,23.8599 L55.679534,57.46 L49.719634,57.46 L25.659634,23.8599 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
